@@ -5,3 +5,10 @@ p {
    body{
     background: #006400;
    }
+
+   h1{
+      text-align: center;
+   }
+   em strong {
+      color: white;
+   }
